@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    
+    background-color: rgb(255, 148, 134);
+    padding: 20px;
+    
+    width: 70%;
+    height: 400px;
+
+    justify-content: center;
+    text-align: center;
+}
+body{
+    background: rgb(255,114,67);
+    background: linear-gradient(90deg, rgba(255,114,67,1) 1%, rgba(215,212,99,1) 32%, rgba(0,212,255,1) 58%, rgba(252,159,225,1) 86%);
+    justify-content: center;
+    text-align: center;
+}
+
+.btn{
+    
+    width: 70px;
+    height: 30px;
+    justify-content: center;
+    position: relative;
+    
+}
+.lox-big{
+    display: flex;
+    margin: 50px;
+    
+}
+input{
+    width: 250px;
+    height: 30px;
+}
